@@ -13,7 +13,7 @@ return (
     </div>
 
     <div className="movie-overview">
-      <h2>Overview:</h2>
+      <h2>Synopsis:</h2>
       <p>{overview}</p>
     </div>
   </div>
